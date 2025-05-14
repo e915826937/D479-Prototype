@@ -303,7 +303,7 @@ var content='<div class="ui-page " deviceName="iphone14pro" deviceType="mobile" 
           <div class="paddingLayer">\
             <div class="content">\
               <div class="valign">\
-                <span id="rtr-s-Text_1_0">About Taniti<br /><br />Taniti is a small, tropical island in the Pacific. While the island has an area of less than 500 square miles, the terrain is varied and includes both sandy and rocky beaches, a small but safe harbor, lush tropical rainforests, and a mountainous interior that includes a small, active volcano. Taniti has an indigenous population of about 20,000. Alcohol is not allowed to be served or sold between the hours of midnight and 9:00 a.m. The drinking age on Taniti is 18 and the drinking age is not strictly enforced. Many younger Tanitians speak fluent English. Very little English is spoken in rural areas, especially by the older residents. There is one hospital and several clinics. The hospital has many multilingual employees. Violent crime is very rare on Taniti, but as tourism increases, there are more reports of pickpocketing and other petty crimes. </span>\
+                <span id="rtr-s-Text_1_0">Taniti is a beautiful, tropical island paradise with stunning beaches, lush rainforests, and an active volcano. Home to about 20,000 residents, the island is safe and welcoming to visitors. English is widely spoken by younger locals, especially in town. Alcohol sales are restricted from midnight to 9 a.m., and the drinking age is 18. Taniti\'s natural beauty and laid-back charm make it a perfect escape. </span>\
               </div>\
             </div>\
           </div>\
