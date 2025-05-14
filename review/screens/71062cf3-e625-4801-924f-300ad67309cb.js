@@ -322,7 +322,7 @@ var content='<div class="ui-page " deviceName="iphone14pro" deviceType="mobile" 
                     <div class="paddingLayer">\
                       <div class="content">\
                         <div class="valign">\
-                          <span id="rtr-s-Text_1_0">Dining on Taniti: The island may be small, but its flavors are big. Savor American-style comfort food, bold Pan-Asian cuisine, and fresh, locally caught fish. There are plentiful options for those with special diet restrictions or food allergies.</span>\
+                          <span id="rtr-s-Text_1_0">Dining on Taniti: The island may be small, but its flavors are big! Savor American-style comfort food, bold Pan-Asian cuisine, and fresh, locally caught fish. There are plentiful options for those with special diet restrictions or food allergies.</span>\
                         </div>\
                       </div>\
                     </div>\
