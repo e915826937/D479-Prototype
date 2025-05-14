@@ -322,7 +322,7 @@ var content='<div class="ui-page " deviceName="iphone14pro" deviceType="mobile" 
                     <div class="paddingLayer">\
                       <div class="content">\
                         <div class="valign">\
-                          <span id="rtr-s-Text_1_0">Dining on Taniti: Whether you\'re craving fresh island flavors or familiar favorites, Taniti has you covered. Savor locally caught fish and rice at five authentic eateries, enjoy comfort food at three American-style spots, or explore bold tastes at two Pan-Asian restaurants. There\'s something here for every palate. Taniti is also rich in dining options for those with food allergies or special diet restrictions.</span>\
+                          <span id="rtr-s-Text_1_0">Dining on Taniti: The island may be small, but its flavors are big. Savor American-style comfort food, bold Pan-Asian cuisine, and fresh, locally caught fish.</span>\
                         </div>\
                       </div>\
                     </div>\
@@ -346,7 +346,7 @@ var content='<div class="ui-page " deviceName="iphone14pro" deviceType="mobile" 
                     <div class="paddingLayer">\
                       <div class="content">\
                         <div class="valign">\
-                          <span id="rtr-s-Text_2_0">Entertainment on Taniti - While Taniti\'s stunning beaches, lush rainforest trails, and active volcano draw most visitors, the island offers plenty more to explore. Guests can dive into local culture at a history museum or art gallery, set out on chartered fishing tours, snorkel in crystal-clear waters, or zip-line through the rainforest canopy. When the sun sets, the nightlife comes alive with pubs, a microbrewery, a dance club, and even a movie theater. Adventurers can take in the views from a helicopter ride, enjoy some classic fun at an arcade, or knock down pins at the bowling alley. A nine-hole golf course is also set to open next year. Many of these attractions are concentrated in Merriton Landing, a lively and fast-growing area on the north side of Yellow Leaf Bay.</span>\
+                          <span id="rtr-s-Text_2_0">Entertainment on Taniti: Beyond its beaches, rainforest trails, and volcano, Taniti offers rich cultural experiences like a history museum and art galleries, plus adventure options like snorkeling, zip-lining, and chartered fishing tours.</span>\
                         </div>\
                       </div>\
                     </div>\

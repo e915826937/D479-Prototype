@@ -303,7 +303,7 @@ var content='<div class="ui-page " deviceName="iphone14pro" deviceType="mobile" 
           <div class="paddingLayer">\
             <div class="content">\
               <div class="valign">\
-                <span id="rtr-s-Text_1_0">Taniti is a beautiful, tropical island paradise with stunning beaches, lush rainforests, and an active volcano. Home to about 20,000 residents, the island is safe and welcoming to visitors. English is widely spoken by younger locals, especially in town. Alcohol sales are restricted from midnight to 9 a.m., and the drinking age is 18. Taniti\'s natural beauty and laid-back charm make it a perfect escape. </span>\
+                <span id="rtr-s-Text_1_0">Taniti is a beautiful, tropical island paradise with stunning beaches, lush rainforests, and an active volcano. Home to about 20,000 residents, the island is safe and welcoming to visitors. English is widely spoken by younger locals, especially in town. Alcohol sales are restricted from midnight to 9 a.m., and the drinking age is 18. Taniti\'s natural beauty and laid-back charm make it a perfect escape. Click below to learn more about what Taniti has to offer!</span>\
               </div>\
             </div>\
           </div>\
