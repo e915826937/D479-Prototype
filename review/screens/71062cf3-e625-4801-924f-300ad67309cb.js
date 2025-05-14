@@ -322,7 +322,7 @@ var content='<div class="ui-page " deviceName="iphone14pro" deviceType="mobile" 
                     <div class="paddingLayer">\
                       <div class="content">\
                         <div class="valign">\
-                          <span id="rtr-s-Text_1_0">Dining on Taniti: The island may be small, but its flavors are big. Savor American-style comfort food, bold Pan-Asian cuisine, and fresh, locally caught fish.</span>\
+                          <span id="rtr-s-Text_1_0">Dining on Taniti: The island may be small, but its flavors are big. Savor American-style comfort food, bold Pan-Asian cuisine, and fresh, locally caught fish. There are plentiful options for those with special diet restrictions or food allergies.</span>\
                         </div>\
                       </div>\
                     </div>\
@@ -385,7 +385,7 @@ var content='<div class="ui-page " deviceName="iphone14pro" deviceType="mobile" 
                     <div class="paddingLayer">\
                       <div class="content">\
                         <div class="valign">\
-                          <span id="rtr-s-Text_3_0">Sightseeing in Taniti - Taniti City is a favorite hub for visitors, offering a mix of native architecture and easy access to the white sand beaches that line Yellow Leaf Bay. Beyond the city, tourists can enjoy scenic boat and bus tours around the island, hike through lush rainforest trails, or venture out to experience the island\'s active volcano up close.<br /><br /><br /></span>\
+                          <span id="rtr-s-Text_3_0">Sightseeing on Taniti: Taniti City is a favorite hub for visitors, offering a mix of native architecture and easy access to the white sand beaches that line Yellow Leaf Bay. Beyond the city, tourists can enjoy scenic boat and bus tours around the island, hike through lush rainforest trails, or venture out to experience the island\'s active volcano up close.<br /><br /><br /></span>\
                         </div>\
                       </div>\
                     </div>\
